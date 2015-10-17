@@ -1,0 +1,28 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\Tech\Studsat\ARM\STM STUDIO\stm32f4discovery_fw\STM32F4-Discovery_FW_V1.1.0\Project\Peripheral_Examples\ISL_Complete_RX_TX\MDK-ARM\ADC3_DMA.uvproj
+Project File Date:  06/17/2013
+
+<h2>Output:</h2>
+Build target 'ADC3_DMA'
+compiling main.c...
+compiling ISL.c...
+..\ISL.c(85): warning:  #223-D: function "delay" declared implicitly
+..\ISL.c(113): warning:  #223-D: function "delay" declared implicitly
+..\ISL.c(129): warning:  #223-D: function "delay" declared implicitly
+..\ISL.c(145): error:  #20: identifier "rx_char" is undefined
+..\ISL.c(164): error:  #20: identifier "rx_char" is undefined
+..\ISL.c(183): error:  #20: identifier "rx_char" is undefined
+Target not created
+Build target 'ADC3_DMA'
+compiling ISL.c...
+..\ISL.c(85): warning:  #223-D: function "delay" declared implicitly
+..\ISL.c(113): warning:  #223-D: function "delay" declared implicitly
+..\ISL.c(129): warning:  #223-D: function "delay" declared implicitly
+linking...
+Program Size: Code=2092 RO-data=424 RW-data=16 ZI-data=1024  
+FromELF: creating hex file...
+".\ADC3_DMA\ADC3_DMA.axf" - 0 Error(s), 3 Warning(s).

@@ -1,0 +1,4 @@
+--cpu Cortex-M4.fp ".\rcc\stm32f4xx_it.o" ".\rcc\spi_flash.o" ".\rcc\main.o" ".\rcc\stm32f4_discovery.o" ".\rcc\stm32f4xx_rcc.o" ".\rcc\misc.o" ".\rcc\stm32f4xx_gpio.o" ".\rcc\stm32f4xx_syscfg.o" ".\rcc\stm32f4xx_exti.o" ".\rcc\stm32f4xx_spi.o" ".\rcc\startup_stm32f4xx.o" ".\rcc\system_stm32f4xx.o" --library_type=microlib --strict --scatter ".\RCC\RCC.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\RCC\RCC.map" -o ".\RCC\RCC.axf"

@@ -1,0 +1,19 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Bheema_Backup\STUDSAT Management\STUDSAT Technical\NMAMIT\NMAMIT-Payload,C&DH Codes\Project\Peripheral_Examples\aaax25 just encoded ultimate-wireless - Reindeer board comm-tx\MDK-ARM\ADC3_DMA.uvproj
+Project File Date:  05/06/2013
+
+<h2>Output:</h2>
+compiling main.c...
+..\ax25.c(713): warning:  #550-D: variable "valid" was set but never used
+..\main.c - 0 Error(s), 1 Warning(s).
+Build target 'ADC3_DMA'
+assembling startup_stm32f4xx.s...
+startup_stm32f4xx.s: error: A1023E: File "..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Source\Templates\arm\startup_stm32f4xx.s" could not be opened: No such file or directory
+Target not created
+compiling main.c...
+..\ax25.c(713): warning:  #550-D: variable "valid" was set but never used
+..\main.c - 0 Error(s), 1 Warning(s).

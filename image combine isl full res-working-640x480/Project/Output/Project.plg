@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Bheema_Backup\STUDSAT Management\STUDSAT Technical\NMAMIT\NMAMIT-Payload,C&DH Codes\Project\Peripheral_Examples\aaaflash -image combine isl full res-working-640x480\Project\Project.uvproj
+Project File Date:  01/24/2013
+
+<h2>Output:</h2>
+Build target 'Open207V'
+linking...
+Program Size: Code=10808 RO-data=528 RW-data=64 ZI-data=2856  
+FromELF: creating hex file...
+".\Output\Project.axf" - 0 Error(s), 0 Warning(s).
+Load "D:\\Bheema_Backup\\STUDSAT Management\\STUDSAT Technical\\NMAMIT\\NMAMIT-Payload,C&DH Codes\\Project\\Peripheral_Examples\\aaaflash -image combine isl full res-working-640x480\\Project\\Output\\Project.AXF" 

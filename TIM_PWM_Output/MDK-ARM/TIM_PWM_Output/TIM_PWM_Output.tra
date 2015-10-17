@@ -1,0 +1,29 @@
+*** Creating Trace Output File '.\TIM_PWM_Output\TIM_PWM_Output.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\tim_pwm_output\main.o"'
+### List of Objects: adding '".\tim_pwm_output\stm32f4xx_it.o"'
+### List of Objects: adding '".\tim_pwm_output\system_stm32f4xx.o"'
+### List of Objects: adding '".\tim_pwm_output\stm32f4_discovery.o"'
+### List of Objects: adding '".\tim_pwm_output\stm32f4xx_rcc.o"'
+### List of Objects: adding '".\tim_pwm_output\misc.o"'
+### List of Objects: adding '".\tim_pwm_output\stm32f4xx_gpio.o"'
+### List of Objects: adding '".\tim_pwm_output\stm32f4xx_syscfg.o"'
+### List of Objects: adding '".\tim_pwm_output\stm32f4xx_exti.o"'
+### List of Objects: adding '".\tim_pwm_output\stm32f4xx_tim.o"'
+### List of Objects: adding '".\tim_pwm_output\startup_stm32f4xx.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M4.fp ".\tim_pwm_output\main.o" ".\tim_pwm_output\stm32f4xx_it.o" ".\tim_pwm_output\system_stm32f4xx.o" ".\tim_pwm_output\stm32f4_discovery.o" ".\tim_pwm_output\stm32f4xx_rcc.o" ".\tim_pwm_output\misc.o" ".\tim_pwm_output\stm32f4xx_gpio.o" ".\tim_pwm_output\stm32f4xx_syscfg.o" ".\tim_pwm_output\stm32f4xx_exti.o" ".\tim_pwm_output\stm32f4xx_tim.o" ".\tim_pwm_output\startup_stm32f4xx.o" --library_type=microlib --strict --scatter ".\TIM_PWM_Output\TIM_PWM_Output.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\TIM_PWM_Output\TIM_PWM_Output.map" -o ".\TIM_PWM_Output\TIM_PWM_Output.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\TIM_PWM_Output\TIM_PWM_Output.axf'
+### ADS-LD Command File: '.\TIM_PWM_Output\TIM_PWM_Output.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\TIM_PWM_Output\TIM_PWM_Output.lnp', Handle=0x000001D4
+### Writing '.lnp' file
+### ADS-LD Command file '.\TIM_PWM_Output\TIM_PWM_Output.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

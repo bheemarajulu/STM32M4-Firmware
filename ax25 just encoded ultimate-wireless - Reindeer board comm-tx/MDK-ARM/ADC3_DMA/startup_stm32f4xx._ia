@@ -1,0 +1,1 @@
+--cpu Cortex-M4.fp -g --apcs=interwork --pd "__MICROLIB SETA 1" -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F4xx --list ".\ADC3_DMA\startup_stm32f4xx.lst" --xref -o ".\ADC3_DMA\startup_stm32f4xx.o" --depend ".\ADC3_DMA\startup_stm32f4xx.d" "..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Source\Templates\arm\startup_stm32f4xx.s"
