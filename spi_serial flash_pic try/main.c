@@ -1,7 +1,7 @@
 /**
   ******************************************************************************
   * @file    RCC/main.c 
-  * @author  payload team, studsat-2
+  * @c ST
   * @version V1.0.0
   * @date    13/1/2013
   * @brief   Main program body
